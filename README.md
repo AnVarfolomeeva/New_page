@@ -6,3 +6,6 @@
 ### Профессия:
 Project manager
 ### Фото:
+# ![Моя фото](img/C12B0024.jpg) 
+
+Автор книги "Я ребенок мне 30лет", которую можно приобрести по ссылке : [Купить книгу](https://www.litres.ru/anastasiya-varfolomeeva/ya-rebenok-mne-30-let/.).
